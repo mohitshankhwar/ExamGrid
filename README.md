@@ -1,9 +1,9 @@
-# Exam Gride
+# Exam Grid
 ### Exam Seating Arrangement System
 
 **Introduction**
 
-Exam Gride is a web-based application designed to simplify examination seating arrangements and reduce manual work in educational institutions.
+Exam Grid is a web-based application designed to simplify examination seating arrangements and reduce manual work in educational institutions.
 
 **Objectives**
 - Manage student records.
